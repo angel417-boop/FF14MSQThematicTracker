@@ -1,6 +1,6 @@
 # FF14MSQThematicTracker
 
-A single-page Final Fantasy XIV tracker to help new players experience the A Realm Reborn story (MSQ) in a thematic way. No install, no account — just open it in a browser and check quests off.
+A single-page Final Fantasy XIV tracker to help new players experience the A Realm Reborn story (MSQ) in a thematic way. No install, no account — just open it in a browser and check quests off. I will add support only up to where the free trial ends as the story is usually relatively complete at that point.
 
 **Live here:** https://faetoplay.github.io/FF14MSQThematicTracker/
 
